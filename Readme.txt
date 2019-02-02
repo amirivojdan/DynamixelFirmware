@@ -1,9 +1,8 @@
 /*
 *
-*  Author : Ahmad Amiri
-*  Email  : ahmad.aav@gmail.com
-*  http://www.MindShine.ir
-*  http://www.PROBOTIX.ir	
+*  Author : Ahmad Amirivojdan
+*  Email  : amirivojdan@gmail.com
+*  http://www.amirivojdan.com
 *	
 */
 
